@@ -8,6 +8,10 @@ Anggota kelompok :
 - Fikri hairul fahri 221511050
 - Muhammad faisal adha 221511057
 
+  Run di browser
+  ![Nama Gambar](browser_run.png)
+
+  Run di emulator mobile
   ![Nama Gambar](run_emulator.png)
 
 
