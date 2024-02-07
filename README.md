@@ -8,7 +8,7 @@ Anggota kelompok :
 - Fikri hairul fahri 221511050
 - Muhammad faisal adha 221511057
 
-  ![Nama Gambar](run_emulator.jpg)
+  ![Nama Gambar](run_emulator.png)
 
 
 
